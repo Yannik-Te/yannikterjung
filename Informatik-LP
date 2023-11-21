@@ -1,1 +1,11 @@
 git init
+#include<iostream>
+using namespace std;
+// das ist die Eintrittsfunktion int main()
+{
+  int ganzzahl1;
+  int ganzzahl2;
+  ganzzahl2 = 36;
+  ganzzahl1 = ganzzahl2 + 6;
+cout << "Hallo Welt ganzzahl1 = " << ganzzahl1 << endl;
+return 0; }
